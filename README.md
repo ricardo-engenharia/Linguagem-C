@@ -1,1 +1,7 @@
 # Linguagem-C
+
+# Documentação da Linguagem C
+
+## link
+
+[Documentação Linguagem C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160)
